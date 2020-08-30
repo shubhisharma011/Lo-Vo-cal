@@ -1,0 +1,72 @@
+*{
+
+	font-family: Montserrat
+
+}
+.footer-row{
+    background-color: rgb(68, 66, 66);
+}
+.text-left{
+		color: white;
+}
+.footer_link{
+	color:white;
+}
+.imp{
+	color:white;
+}
+/* changes to be made in his file */
+/* new changes */
+.spacing_change{
+		padding-top: 15px;
+		background-color:rgb(68, 66, 66) ;  
+		padding-bottom: 15px;
+}
+.text-center{
+	font-size: 11px;
+	color: white;
+}
+.space{
+	margin-bottom: 15px;
+}
+
+.dot{
+	list-style: none;
+}
+.footer_change ul li a{
+	text-decoration: none;
+}
+.footer_change ul li a:hover{
+	color: yellow;
+}
+.span1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:23px;
+}
+.nav-item{
+	margin-left: 40px;
+}
+.logo{
+	font-size: 20px;
+	font-family: 'Times New Roman', Times, serif;
+}
+/* main */
+.main{
+    height: 100vh;
+    background-color: whitesmoke;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+/* new changes */
+/* space above footer-image */
+.container{
+	padding-top: 30px;
+}
+/* hover effect on categories menu */
+.hover-effect:hover{
+	text-decoration-line: underline;
+	font-weight: bold;
+}
