@@ -72,7 +72,6 @@
 .section1{
 
 background-color: white;
-/* background-image: linear-gradient(to right, papayawhip,peachpuff,peachpuff,peru); */
 
 }
 
@@ -101,49 +100,28 @@ button{
 .all-row button a{
 	text-decoration:none;
 }
-.service_column{
+/* .service_column{
 	padding-bottom: 10px;
-}
+} */
 .boxed{
 	/* border: 0.1px rgb(0, 0, 0) solid; */
-	background-image: linear-gradient(to right, papayawhip,peachpuff,peachpuff,peru);
+    background-image: linear-gradient(to right, papayawhip,peachpuff,peachpuff,peru);
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 .bin{
 	width:124px;
 	display: inline-block;
-	border-radius: 30px;
-	/* border:2px solid black; */
-}
-.btn .bin a:hover{
-	border: 2px solid black;
 }
 .bin1{
-	background-image: linear-gradient(to right,rgb(51, 145, 51),green,rgb(10, 95, 10),rgb(16, 77, 16));
-		
+		background-image: linear-gradient(to right,red, purple);
 }
 .bin2{
-	
-	background-image: linear-gradient(to right,red, purple);
+	background-image: linear-gradient(to right,rgb(51, 145, 51),green,rgb(10, 95, 10),rgb(16, 77, 16));
 }
-.gap{
+/* .gap{
 	margin-top: 15px;
-	background-image: linear-gradient(to bottom,peru,brown,maroon);
-	border-radius: 15px;
-	border: 0;
-	/* color: maroon; */
-	font-family: 'Times New Roman', Times, serif;
-	font-weight: 800;
-	padding-right: 25px;
-	padding-left: 25px;
-}
-strong{
-	font-family: 'Times New Roman', Times, serif;
-	font-size: 20px;
-}
-h3{
-	font-family: 'Times New Roman', Times, serif;
-	font-weight: bolder;
-}
+} */
 p{
 	text-align:center ;
 	padding-top: 8px;
@@ -155,5 +133,5 @@ img{
 }
 .alignimg{
 	margin-top: 15px;
-	border: white 2px solid;
+	border: black 2px solid;
 }
