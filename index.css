@@ -115,9 +115,6 @@ button{
 	align-content: center;
 	/* border:2px solid black; */
 }
-.btn .bin a:hover{
-	border: 2px solid black;
-}
 .bin1{
 	background-image: linear-gradient(to right,rgb(51, 145, 51),green,rgb(10, 95, 10),rgb(16, 77, 16));
 		
