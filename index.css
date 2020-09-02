@@ -143,7 +143,8 @@ h3{
 p{
 	text-align:center ;
 	padding-top: 8px;
-	color: maroon;
+	color: black;
+	font-size:15px;
 }
 img{
 	display: block;
