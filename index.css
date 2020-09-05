@@ -1,6 +1,8 @@
 *{
 
-	font-family: Montserrat
+	/* font-family: Montserrat; */
+	font-size:15px;
+	font-weight:500;
 
 }
 /* body{
@@ -113,6 +115,7 @@ button{
 	/* display: inline-block; */
 	border-radius: 30px;
 	align-items: flex-end;
+
 }
 .bin1{
 	background-image: linear-gradient(to right,rgb(51, 145, 51),green,rgb(10, 95, 10),rgb(16, 77, 16));
