@@ -202,17 +202,19 @@ button{
 }
 /* hover on whatsapp insta button */
 .bin1:hover,.bin2:hover{
-    transform:scale(0.7); 
+
+   border: 3px solid white;
+    /* transform:scale(0.7);  */
     /*overflow:hidden;
     height: 500px;
     width:100px; */
-    position: relative;
+    /* position: relative; */
     /* top: -25px;
     left: -35px; */
-    width: auto;
+    /* width: auto;
     height: auto;
     display: block;
-    z-index: 999;
+    z-index: 999; */
 }
 
 /* whatsapp button */
