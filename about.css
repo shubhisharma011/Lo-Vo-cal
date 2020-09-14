@@ -57,7 +57,7 @@
 .main{
 	height: 100%;
     /* background-image: linear-gradient(to right,white,rgb(207, 236, 236),rgb(172, 243, 243),rgb(117, 247, 247),rgb(43, 241, 222)); */
-	/* background-image: linear-gradient(to right,white, rgb(168, 241, 241),turquoise,aqua,teal); */
+	background-image: linear-gradient(to right,white,white, papayawhip,peachpuff,rgb(235, 163, 91));
 	/* background-image: linear-gradient(to right,white,rgb(247, 235, 214),rgb(238, 207, 150),rgb(247, 202, 119),rgb(243, 173, 42)); */
 	/* background-image: linear-gradient(to right,rgb(180, 177, 177),rgb(133, 130, 130),rgb(112, 112, 112),black); */
 }

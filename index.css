@@ -137,9 +137,11 @@ button{
 	padding-right: 5px;
 
 }
-/* .bin1:hover,.bin2:hover{
-    transform:scale(0.7); 
-    /*overflow:hidden;
+.bin2:hover{
+
+	border: 3px solid white;
+    /* transform:scale(0.7); 
+    overflow:hidden;
     height: 500px;
     width:100px;
     position: relative;
@@ -148,8 +150,8 @@ button{
     width: auto;
     height: auto;
     display: block;
-    z-index: 999;
-} */
+    z-index: 999; */
+} 
 /* whatsapp button */
 .bin1{
 	background-image: linear-gradient(to right,rgb(51, 145, 51),green,rgb(10, 95, 10),rgb(16, 77, 16));
